@@ -3,7 +3,7 @@
 ## Non riesco ad aprire il sito. Cosa posso fare?
 - Assicurarsi che la repository sia stata clonata correttamente e che il sito aprendo il file index.html con un browser moderno.
 
-## non visualizzo lo stile o i vari post ma ho una connessione
+## Non visualizzo lo stile o i vari post ma ho una connessione
 - problema temporaneo di connessione
 - Svuota la cache del browser e ricarica la pagina
 - Prova un altro browser o dispositivo

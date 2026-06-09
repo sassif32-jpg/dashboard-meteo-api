@@ -12,7 +12,7 @@
 
 ## Clonare il repository
 
-bash#
+bash**
 
 git clone https://github.com/tuo-utente/tuo-progetto   **esempio per clonare il repository**
 

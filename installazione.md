@@ -18,8 +18,7 @@ git clone https://github.com/tuo-utente/tuo-progetto   **esempio per clonare il 
 
 - Entra nella cartella:
 
-bash#
-
+bash**
 cd tuo-progetto
 
 ## Avvio del progetto
